@@ -1,0 +1,4 @@
+C:\Users\Michael\SkyDrive\Documents\Test\Test\bin\Test.dll
+C:\Users\Michael\SkyDrive\Documents\Test\Test\bin\Test.pdb
+C:\Users\Michael\SkyDrive\Documents\Test\Test\obj\Debug\Test.dll
+C:\Users\Michael\SkyDrive\Documents\Test\Test\obj\Debug\Test.pdb
